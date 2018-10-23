@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://www.skyhightechnologies.in/sitemap.xml
+Sitemap: https://www.skyhightechnologies.in/sitemap.xml
